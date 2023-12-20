@@ -45,7 +45,7 @@ button{
 
 input{
     height: 16%;
-    width: 98%;
+    width: 240px;
     margin: 4px;
     box-shadow: 0 0 1rem rgb(0,0,0.3);
     border: none;
